@@ -6,7 +6,7 @@ Those projects will help you learn to clean and organize data, uncover patterns 
 Subjects Covered during all projects will be as the following:
 
 Open source:
-Anaconda: Learn to use Anaconda to manage packages and environments for use with Python
+Anaconda: Learn to use Anaconda to manage packages and environments for using with Python
 Jupyter Notebook: Learn to use this open-source web application
 
 
