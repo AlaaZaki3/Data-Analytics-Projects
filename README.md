@@ -1,8 +1,8 @@
 # Data-Analytics-Projects
 This repository is mainly for Data analytics projects using Python. Those projects will help you clean and organize data, uncover patterns and insights using Statistics, you will develop your programming skills using different libraries of python, and learn you how to use jupyter notebook to build and write your project.
 
-# You will learn through the projects:
-# Open source: 
+# You will learn throughout the projects:
+## Open source: 
 * Anaconda: Learn to use Anaconda to manage packages and environments for using with Python
 * Jupyter Notebook: Learn to use this open-source web application
 
