@@ -1,9 +1,10 @@
 # Waiter's Tips 
 ### Description
  One waiter recorded information about each tip he received over a period of a few months working in one restaurant. In all he recorded 244 tips.
- Dataset includes 7columns and 244 rows.
+ - Dataset includes 7columns and 244 rows.
 
-####### First of all, we must descripe the dataset, it has 7 columns (total_bill, tip, sex, smoker, day, time, size) the description of each one as the following:
+**First of all, we must descripe the dataset, it has 7 columns (total_bill, tip, sex, smoker, day, time, size) the description of each one as the following:
+ 
  * total_bill describes how much the table paid.
  * tip describes how much the table tip.
  * sex describes what gender the payer is.
