@@ -26,7 +26,7 @@ This repository is mainly for Data analytics projects using Python. Those projec
 * ASSESSING DATA:
   * Assess data visually and programmatically using pandas Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
 * CLEANING DATA:
- * Identify each step of the data cleaning process (defining, coding, and testing) Clean data using Python
+  * Identify each step of the data cleaning process (defining, coding, and testing) Clean data using Python
 
 ### Data Visualisation:
 * Univariate exploration of data ( histogram, bar charts, Use axis limits and different scales ) 
