@@ -14,6 +14,7 @@ This repository is mainly for Data analytics projects using Python. Those projec
 * Inferential Statistics 
 * Confidence Levels and Intervals 
 * Hypothesis Testing 
+* A/B Test
 * T-tests 
 * Regression 
 * Multiple Linear Regression 
